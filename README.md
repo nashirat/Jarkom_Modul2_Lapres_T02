@@ -119,10 +119,16 @@ Membuat file .htaccess yang melakukan redirect
 ![Nomor 13](img/13.PNG)
 
 ## No 14
-### Sulthon
+### Membuat web naik.gunung.semerut02.pw dengan port 8888
+
+![Nomor 14](img/14.PNG)
 
 ## No 15
-### Sulthon
+### Set username dan password di naik.gunung.semerut02.pw
+
+![Nomor 15](img/15.PNG)
+![Nomor 15](img/15b.PNG)
+![Nomor 15](img/15c.PNG)
 
 ## No 16
 ### Redirect IP Probolinggo ke semeruyyy.pw
