@@ -121,14 +121,18 @@ Membuat file .htaccess yang melakukan redirect
 ## No 14
 ### Membuat web naik.gunung.semerut02.pw dengan port 8888
 
+Tinggal buat di sites-available naik.gunung.semeru02.pw dengan port 8888. Lalu tambahkan lister 8888 di ports.conf.
 ![Nomor 14](img/14.PNG)
 
 ## No 15
 ### Set username dan password di naik.gunung.semerut02.pw
 
+Pertama buat username dan password di file .htpasswd dengan htpasswd. Bisa dilihat kalau password terenkripsi.
+![Nomor 15](img/15c.PNG)
+Lalu cek ulang di naik.gunung.semerut02.pw
 ![Nomor 15](img/15.PNG)
 ![Nomor 15](img/15b.PNG)
-![Nomor 15](img/15c.PNG)
+
 
 ## No 16
 ### Redirect IP Probolinggo ke semeruyyy.pw
